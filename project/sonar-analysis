@@ -1,7 +1,7 @@
 sonar.login=admin
-    D sonar.password=admin
+    D sonar.password=123456
       sonar.projectBaseDir=/var/lib/jenkins/workspace/jenkins-sonar/
-        sonar.projectKey=my-app1
+        sonar.projectKey=sonarqube
         sonar.projectName=project
         sonar.sourceEncoding=UTF-8
         sonar.language=java
