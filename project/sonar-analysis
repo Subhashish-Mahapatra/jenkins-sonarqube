@@ -8,4 +8,4 @@ sonar.login=admin
         sonar.sources=/var/lib/jenkins/workspace/project/src/main/java
         sonar.tests=/var/lib/jenkins/workspace/project/src/test/java
         sonar.exclusions=vendor/**,resources/**,**/*.java
-        sonar.host.url=http://127.0.0.1:9000/
+        sonar.host.url=http://localhost:9000/
